@@ -4,11 +4,9 @@
     "authors": [
         {
             "name": "Lee mu en",
-            "email": "jessezzxxcc@gmail.com",
-
+            "email": "jessezzxxcc@gmail.com"
         }
     ],
-
     "require": {},
     "autoload": {
         "psr-4": {
